@@ -94,7 +94,7 @@ header .nav-items {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    gap: 5px;
+    gap: 2.59px;
     align-items: center;
 }
 
