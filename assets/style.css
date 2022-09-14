@@ -5,6 +5,8 @@
     --yellow: #FFA400;
     --red: #FC2933;
     --white: #FFFFFF;
+    --bg-black: #131415;
+
 }
 
 * {
@@ -22,7 +24,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
-    background-color: var(--black);
+    background-color: var(--bg-black);
 }
 
 header .logo-ico {
