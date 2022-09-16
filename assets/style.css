@@ -225,6 +225,7 @@ main {
     border-radius: 1em;
     padding: 10px 18px;
     gap: 17px;
+    cursor:pointer;
     transition: all 0.2s ease-in;
 }
 
