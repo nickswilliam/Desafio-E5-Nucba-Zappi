@@ -30,6 +30,7 @@ header {
 header .logo-ico {
     width: 76px;
     height: 79px;
+    cursor: pointer;
 }
 
 header .nav-items {
@@ -313,6 +314,7 @@ main {
     background: var(--black);
     box-shadow: 0px 0px 50px rgba(1, 2, 7, 0.5);
     border-radius: 15px;
+    cursor: pointer;
     transition: all 0.2s ease-out;
 }
 
