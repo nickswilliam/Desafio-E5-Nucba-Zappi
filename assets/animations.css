@@ -1,0 +1,24 @@
+/* Hover elements */
+
+.logo-ico:hover,
+.home-ico:hover,
+.cart-ico:hover,
+.profile-ico:hover {
+    opacity: 80%;
+}
+
+.hero-info button:hover,
+.sug-option button:hover,
+.item-price button:hover {
+    background: linear-gradient(to right, #cc8201, #db1035); 
+    color: #ffffff83;
+}
+
+/* Scalable Objects */
+
+.sug-option:hover,
+.cat-option:hover,
+.pop-item:hover {
+    transform: scale(1.04, 1.04);
+    transition: all 0.2s ease-in-out;
+}
